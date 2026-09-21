@@ -2,9 +2,12 @@
 
 Software Engineer at Datadog and recent CS & Mathematics double degree graduate from Universidad Complutense de Madrid (UCM). Passionate about learning new things and solving complex technical challenges.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisorofino&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisorofino&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisorofino&show_icons=true&hide=stars,issues&hide_border=true&count_private=true&theme=default" alt="Luis's GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisorofino&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
 - [LinkedIn :)](https://www.linkedin.com/in/luisorofino)
